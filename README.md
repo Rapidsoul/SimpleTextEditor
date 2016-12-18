@@ -1,3 +1,3 @@
 # SimpleTextEditor
 
-![alt tag](https://s24.postimg.org/s23r11hxx/quickexample.png)
+![alt tag](https://s30.postimg.org/jkb18ggj5/editorexample.png)
